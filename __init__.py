@@ -6,4 +6,4 @@ Created on Fri Nov 13 21:04:45 2020
 """
 
 
-from TOPSIS-mansi-101803412.Topsis1,py import Topsis
+from TOPSIS-mansi-101803412.Topsis1 import Topsis
